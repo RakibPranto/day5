@@ -1,4 +1,4 @@
-# product_info_UI_using_Flutter
+# product_info_with_image_UI_using_Flutter
 
 
 A new Flutter project.
